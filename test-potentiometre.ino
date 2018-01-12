@@ -8,7 +8,7 @@ void setup() {
 void loop() {
   int valeur_recup = 0;
   valeur_recup = analogRead(2);
-  Serial.print("la position du curseur (aka line track) est de ");
+  Serial.print("la position du curseur (aka line track) est de: ");
   Serial.println(valeur_recup);
 }
 
