@@ -14,3 +14,4 @@ void loop() {
   Serial.println(valeur_recup);
 }
 
+/* vim: set tabstop=2: */
