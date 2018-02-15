@@ -20,4 +20,4 @@ void loop() {
   delay(500);
 }
 
-/* vim: set tabstop=2: */
+/* vim: set ts=2 sw=2 et : */
