@@ -1,6 +1,6 @@
 /* http://romain-astouric.com/arduino-1-etude-et-prise-en-main-dun-fader-motorise/ */
 
-int pin = 12;
+int pin = 5;
 float cm = 0;
 
 void setup() {
